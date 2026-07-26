@@ -1,6 +1,24 @@
 # Latin-America-Transaction---Submission-ID-10802
 
-# A Miniaturized Single-Feed Dual-Band Dual-Orthogonally Polarized Antenna for U2V Communication Systems - Data and Design Repository
+# Paper ID: 10802
+# Paper Title: A Miniaturized Single-Feed Dual-Band Dual-Orthogonally Polarized Antenna for U2V Communication Systems
+
+**Authors:**
+* Tan Dao-Duc¹ [(ORCID: 0009-0004-2708-5806)](https://orcid.org/0009-0004-2708-5806)
+* Tu Le-Tuan¹ [(ORCID: 0009-0006-6214-3682)](https://orcid.org/0009-0006-6214-3682)
+* Hung Nguyen-Manh² [(ORCID: 0009-0009-9582-0485)](https://orcid.org/0009-0009-9582-0485)
+* Ngoc-Lan Nguyen³ ✉ [(ORCID: 0000-0001-8506-9979)](https://orcid.org/0000-0001-8506-9979)
+* Muhammad Ikram⁴ [(ORCID: 0000-0002-1685-8445)](https://orcid.org/0000-0002-1685-8445)
+
+**Affiliations:**
+> ¹ Faculty of Electrical and Electronic Engineering, PHENIKAA School of Engineering, PHENIKAA University, Hanoi, 12116, Vietnam. *(Emails: tan.daoduc@phenikaa-uni.edu.vn, tu.letuan@phenikaa-uni.edu.vn)*
+> ² Faculty of Electrical and Electronics Engineering, Hanoi Open University, Hanoi, Vietnam.
+> ³ Faculty of Telecommunications 2, Posts and Telecommunications Institute of Technology, Ho Chi Minh City, Vietnam. *(Email: lannn@ptit.edu.vn)*
+> ⁴ College of Engineering and Applied Sciences, American University of Kuwait (AUK), Safat, 13034, Kuwait.
+> 
+> ✉ *Corresponding author: Ngoc-Lan Nguyen (lannn@ptit.edu.vn)*
+
+# Data and Design Repository
 
 This repository contains the simulation design files and exported figure data associated with the research paper/project **"A Miniaturized Single-Feed Dual-Band Dual-Orthogonally Polarized Antenna for U2V Communication Systems"**. 
 

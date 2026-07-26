@@ -18,7 +18,7 @@
 > 
 > ✉ *Corresponding author: Ngoc-Lan Nguyen (lannn@ptit.edu.vn)*
 
-# Data and Design Repository
+# Overview
 
 This repository contains the simulation design files and exported figure data associated with the research paper/project **"A Miniaturized Single-Feed Dual-Band Dual-Orthogonally Polarized Antenna for U2V Communication Systems"**. 
 
